@@ -10,6 +10,7 @@ Follow the steps <br/>
   6. Install the xampp or wampp server for database connection <br/>
   7. Navigate to localhost/phpmyadmin <br/>
   8. create the database with this name "springproject" <br/>
-  9. Don't Run the apache server <br/>
-  10.Navigate to this address to execute the project <br/>
+  9. Import SQL file to Database application <br/>
+  10. Don't Run the apache server <br/>
+  11.Navigate to this address to execute the project <br/>
     localhost:8080/springproject <br/>
